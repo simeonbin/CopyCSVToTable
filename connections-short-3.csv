@@ -1,0 +1,4 @@
+RouterName,RouterIP,RouterPort,DeviceName,DeviceIP,DeviceDescription,DevicePort
+s-greenfield-84248,15.91, 0,vm-castlerock-ldick,64.221.43.39,Lennox Dick 's computer,1
+s-greenfield-84248,15.91, 1,sysdev-tehachapi-djerri,52.224.147.55,Diana Jerri 's computer,2
+s-greenfield-84248,15.91, 2,mark-yorbalinda-mjerri,124.44.215.136,Mickey Jerri 's computer,1

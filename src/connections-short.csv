@@ -1,0 +1,27 @@
+RouterName,RouterIP,RouterPort,DeviceName,DeviceIP,DeviceDescription,DevicePort
+s-greenfield-84248,15.91.214.219,0,vm-castlerock-ldick,64.221.43.39,Lennox Dick's computer,1
+s-greenfield-84248,15.91.214.219,1,sysdev-tehachapi-djerri,52.224.147.55,Diana Jerri's computer,2
+s-greenfield-84248,15.91.214.219,2,mark-yorbalinda-mjerri,124.44.215.136,Mickey Jerri's computer,1
+s-greenfield-84248,15.91.214.219,3,mark-industry-bkaleb,132.124.75.121,Benedict Kaleb's computer,0
+x-salina-16647,248.72.140.156,0,sup-bellingham-cvinnie,65.161.251.42,Conor Vinnie's computer,1
+x-salina-16647,248.72.140.156,1,it-fallis-ejada,169.3.183.134,Esmay Jada's computer,2
+x-salina-16647,248.72.140.156,2,web-stanwood-ftyler,58.190.187.19,Fabrizia Tyler's computer,0
+x-salina-16647,248.72.140.156,3,it-weed-ijackie,236.119.5.51,Isha Jackie's computer,1
+m-webbcity-73301,180.110.238.148,0,sup-orting-jasha,120.38.22.161,Jerald Asha's computer,2
+m-webbcity-73301,180.110.238.148,1,qa-norge-mcalypso,205.225.46.76,Morgana Calypso's computer,1
+m-webbcity-73301,180.110.238.148,2,vm-rosedale-hjulianna,147.217.117.116,Honor Julianna's computer,0
+d-dougherty-65017,77.37.192.66,0,vm-sanmateo-rdayna,140.50.42.71,Rania Dayna's computer,2
+k-rosston-31433,37.79.44.9,0,demo-vacaville-affion,219.21.31.4,Ariella Ffion's computer,0
+k-rosston-31433,37.79.44.9,1,test-crescentcity-vysabel,246.42.66.195,Vera Ysabel's computer,2
+e-sawyer-52896,187.48.242.140,0,is-isleton-tjustine,243.176.242.19,Tucker Justine's computer,0
+e-sawyer-52896,187.48.242.140,1,sales-freedom-vziva,15.161.62.33,Vaughn Ziva's computer,0
+f-smithville-49108,235.114.187.58,0,sales-redbluff-ncai,139.21.166.251,Nesbit Cai's computer,1
+f-smithville-49108,235.114.187.58,1,dev-langley-jlarry,76.193.226.41,Jediah Larry's computer,0
+f-smithville-49108,235.114.187.58,2,sales-southsanfrancisco-csophie,234.192.201.219,Cassidy Sophie's computer,0
+f-smithville-49108,235.114.187.58,3,lab-burnsflat-drene,179.33.174.196,Darian Rene's computer,0
+k-washington-98238,44.66.145.225,0,dev-snoqualmie-mheath,208.219.254.99,Mabel Heath's computer,2
+f-talala-13215,213.218.197.215,0,is-manchester-mjeremy,94.189.167.135,Marina Jeremy's computer,1
+f-talala-13215,213.218.197.215,1,pmm-santaclara-kjohn,105.171.67.55,Kyle John's computer,0
+f-talala-13215,213.218.197.215,2,vm-fortbragg-ptrey,70.150.179.23,Peyton Trey's computer,2
+p-canute-55475,156.240.220.206,0,pmm-maplevalley-zhilary,133.233.90.143,Zaya Hilary's computer,0
+p-canute-55475,156.240.220.206,1,dev-hayward-nkitty,119.174.80.104,Nikolas Kitty's computer,2
